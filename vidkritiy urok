@@ -1,0 +1,89 @@
+<html>
+    <body>
+        <h1>Футбол</h1>
+        <p>Футбол — командний вид спорту, в який грають дві команди по одинадцять гравців зі сферичним м'ячем. Близько 250 мільйонів чоловіків і жінок із більш ніж 200 країн грають у футбол, що робить його найпопулярнішим у світі видом спорту.
+        </p>
+        <a href="https://football24.ua/calendar/">футбольні матчі</a>
+        <h3><img src="https://intb.te.ua/wp-content/uploads/2022/05/futbol-2.jpg"widht="75px"
+        height="75px">
+        </h3>
+        <h2>Найкращі футболісти за 24 рік</h2>
+        <p class="Rodri">1-<a href="https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B4%D1%80%D1%96%D0%B3%D0%BE_%D0%95%D1%80%D0%BD%D0%B0%D0%BD%D0%B4%D0%B5%D1%81">Родрі</a></p>
+        <p class="carvahal">2-<a href="https://uk.wikipedia.org/wiki/%D0%94%D0%B0%D0%BD%D1%96%D1%94%D0%BB%D1%8C_%D0%9A%D0%B0%D1%80%D0%B2%D0%B0%D1%85%D0%B0%D0%BB%D1%8C">Карвахаль</a></p>
+        <p class="bellingham">3-<a href="https://uk.wikipedia.org/wiki/%D0%94%D0%B6%D1%83%D0%B4_%D0%91%D0%B5%D0%BB%D0%BB%D1%96%D0%BD%D0%B3%D0%B5%D0%BC">Белінгєм</a></p>
+        <p class="jr">4-<a href="https://uk.wikipedia.org/wiki/%D0%92%D1%96%D0%BD%D1%96%D1%81%D1%96%D1%83%D1%81_%D0%96%D1%83%D0%BD%D1%96%D0%BE%D1%80">Вінісіус</a></p>
+        <p class="yamal">5-<a href="https://uk.wikipedia.org/wiki/%D0%9B%D0%B0%D0%BC%D1%96%D0%BD_%D0%AF%D0%BC%D0%B0%D0%BB%D1%8C">Ямаль</a></p>
+        <p class="virc">6-<a href="https://uk.wikipedia.org/wiki/%D0%A4%D0%BB%D0%BE%D1%80%D1%96%D0%B0%D0%BD_%D0%92%D1%96%D1%80%D1%86">Вірц</a></p>
+        <p class="lautaro">7-<a href="https://uk.wikipedia.org/wiki/%D0%9B%D0%B0%D1%83%D1%82%D0%B0%D1%80%D0%BE_%D0%9C%D0%B0%D1%80%D1%82%D1%96%D0%BD%D0%B5%D1%81">Л.Мартінез</a></p>
+        <p class="foden">8-<a href="https://uk.wikipedia.org/wiki/%D0%A4%D1%96%D0%BB_%D0%A4%D0%BE%D0%B4%D0%B5%D0%BD">Фоден</a></p>
+        <p class="mbappe">9-<a href="https://uk.wikipedia.org/wiki/%D0%9A%D1%96%D0%BB%D1%96%D0%B0%D0%BD_%D0%9C%D0%B1%D0%B0%D0%BF%D0%BF%D0%B5">Мбаппе</a></p>
+        <p class="lookman">10-<a href="https://uk.wikipedia.org/wiki/%D0%90%D0%B4%D0%B5%D0%BC%D0%BE%D0%BB%D0%B0_%D0%9B%D1%83%D0%BA%D0%BC%D0%B0%D0%BD">Лукман</a></p>
+        <p>Якщо ви хочете дуже добре грати в футбол позвоніть на номер +380669385308</p>
+        <p>я знаю все про футбол</p>
+        <p class="nomer">Номер +380669385308</p>
+        <p class="misto">Місто Мукачево Школа 13</p>
+        <footer>
+        <a href="https://www.facebook.com/p/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0-%D1%88%D0%BA%D0%BE%D0%BB%D0%B0-%D0%9C%D1%83%D0%BA%D0%B0%D1%87%D0%B5%D0%B2%D0%BE-61553847782604/$0">Наша футбольна школа</a>
+        </footer>
+    </body> 
+</html>
+<link rel="stylesheet"href="style.css"/>
+body h1 {
+    text-align: center;
+    color: red
+}
+body h2{
+border:2px solid red;
+}
+.Rodri{
+    border:2px solid black;
+    text-align: center;
+}
+.carvahal{
+    border:2px solid black;
+    text-align: center;
+}
+.bellingham{
+    border:2px solid black;
+    text-align: center;
+}
+.jr{
+    border:2px solid black;
+    text-align: center;
+}
+.yamal{
+    border:2px solid black;
+    text-align: center;
+}
+.virc{
+    border:2px solid black;
+    text-align: center;
+}
+.lautaro{
+    border:2px solid black;
+    text-align: center;
+}
+.foden{
+    border:2px solid black;
+    text-align: center;
+}
+.mbappe{
+   border:2px solid black;
+   text-align: center;
+}
+.lookman{
+   border:2px solid black;
+   text-align: center;
+}
+.nomer{
+    text-align: center;
+}
+.misto{
+    text-align: center;
+}
+footer a{
+    text-decoration:none;
+}
+footer{
+    text-align: center;
+}
